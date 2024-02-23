@@ -7,5 +7,5 @@ I’m currently studying for my Bachelor's degree at the University of Melbourne
 
 <h2 align="center">My Github Stats</h2>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=artwork321&theme=shadow_red&hide_border=True" alt="NHTL's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artwork321&size_weight=0&count_weight=1&layout=compact&theme=shadow_red&hide_border=True" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=artwork321&theme=shadow_red&hide_border=True" alt="NHTL's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artwork321&size_weight=1&count_weight=1&layout=compact&theme=shadow_red&hide_border=True" /></a> |
 | ------------- | ------------- |
