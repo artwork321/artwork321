@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p align="center" >
-I’m currently studying for my Bachelor's degree at the University of Melbourne,🌱 currently learning Machine Learning models for Data Science, therefore,🤔 I’m looking for help with it and also Deep Learning. Besides, Game Programming is also my side interest.
+I am a recent graduate from the University of Melbourne. I studied Data Science, and I am currently learning Deep Learning. Besides, Game Programming is also my side interest.
 </p>
 
 <br/>
