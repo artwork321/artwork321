@@ -2,7 +2,6 @@
 
 I'm a recent Data Science graduate from the University of Melbourne with a passion for **data analytics, machine learning, and game development**. I enjoy transforming data into actionable insights and building engaging experiences through games.  
 
----
 
 ## 📊 Data Skills
 - **SQL** → Querying and managing relational databases  
@@ -10,18 +9,15 @@ I'm a recent Data Science graduate from the University of Melbourne with a passi
 - **R** → Performing statistical analysis and hypothesis testing  
 - **Power BI** → Building interactive dashboards and visualizations  
 
----
 
 ## 🎮 Game Development
 - Experience in **Unity** for creating 2D games
 - Familiar with **C# scripting**, **game mechanics**, and **UI implementation**  
 
----
 
 ## 📚 Projects
 Welcome to my portfolio! Here, I showcase a collection of my projects, including **data analytics dashboards**, **machine learning models**, and **game development work**.  
 
----
 
 ## 🛠️ Tools & Technologies
 - **Languages:** SQL, Python, R, C#  
@@ -29,7 +25,6 @@ Welcome to my portfolio! Here, I showcase a collection of my projects, including
 - **Visualization:** Power BI  
 - **Game Engine:** Unity  
 
----
 
 ## 📬 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nguyenlamh04/))  
