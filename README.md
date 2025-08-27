@@ -27,9 +27,8 @@ Welcome to my portfolio! Here, I showcase a collection of my projects, including
 
 
 ## 📬 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nguyenlamh04/))  
+- [LinkedIn]([https://www.linkedin.com/in/nguyenlamh04/])  
 
-<br/>
 
 <h2 align="center">My Github Stats</h2>
 
